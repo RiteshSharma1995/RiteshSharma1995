@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ritesh 👋
+
+## About Me
+
+I'm a Frontend Developer currently learning React and JavaScript.
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+## Currently Learning
+
+- React
+- Backend Development
+- Node.js
 
 <!--
 **RiteshSharma1995/RiteshSharma1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
