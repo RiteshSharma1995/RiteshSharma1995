@@ -1,4 +1,4 @@
-# Hi there, I'm Vikash Kumar 👋
+# Hi there, I'm Ritesh Sharma 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Full+Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+Tailwind+CSS+%7C+TypeScript" alt="Typing SVG" />
