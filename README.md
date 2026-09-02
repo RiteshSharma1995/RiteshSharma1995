@@ -1,17 +1,4 @@
-# Hi there, I'm Ritesh Sharma👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Full+Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+Tailwind+CSS+%7C+TypeScript" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <b>Full Stack Developer Intern</b> at <b>Detechie Digital Academy Pvt. Ltd.</b> 🚀
-</p>
-
-<p align="center">
-  <a href="https://radiant-klepon-c72c34.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/vikash-kumar-662689398/" target="_blank"><img src="https://img.shi…
-[1:43 pm, 01/09/2026] Vikas Dice Academy: # Hi there, I'm Vikash Kumar 👋
+# Hi there, I'm Vikash Kumar 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Full+Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+Tailwind+CSS+%7C+TypeScript" alt="Typing SVG" />
