@@ -58,13 +58,29 @@
 
 ## 🚀 Projects
 
-### 🍔 Food Delivery Application
+### 🐕 Contextive — Tail Empire
 
-- Working on a food delivery application concept.
-- Exploring user journeys, frontend development and backend architecture.
-- Learning REST API integration, authentication and database management.
+**Full-Stack MERN Pet Marketplace**
 
-**Tech Stack:** React.js, JavaScript, Node.js, Express.js, MongoDB
+🔗 [Visit Website](https://tailempire.in)
+
+- Built a pet marketplace connecting breeders, kennel owners, and buyers across India.
+- Dynamic pet listings, breed filtering, seller profiles, and buyer-seller enquiry workflow.
+- Designed to make pet discovery and seller connections easier.
+
+**Tech Stack:** React.js, Redux Toolkit, Node.js, Express.js, MongoDB, Tailwind CSS
+
+### 🚚 Air Sea Cargo Express
+
+**Global Logistics & Freight Services Portal**
+
+🔗 [Visit Website](https://airseacargoexpress.ae)
+
+- Logistics web platform covering air, sea, road transport and warehousing services.
+- Structured service catalog and customer enquiry workflow for lead generation.
+- Developed a platform to showcase logistics and freight services.
+
+**Tech Stack:** React.js, Tailwind CSS
 
 ---
 
