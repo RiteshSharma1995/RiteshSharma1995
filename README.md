@@ -1,7 +1,7 @@
 # Hi there, I'm Ritesh Sharma 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Frontend+Developer and UX UI designer;React.js+%7C+JavaScript;HTML+%7C+CSS+%7C+Tailwind+CSS+ Figma+Framer;Exploring+Backend+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Frontend+Developer+%26+UI%2FUX+Designer;React.js+%7C+JavaScript;HTML+%7C+CSS+%7C+Tailwind+CSS;Figma+%7C+FigJam+%7C+Framer;Exploring+Backend+Development" alt="Typing SVG" />
 </div>
 
 <p align="center">
